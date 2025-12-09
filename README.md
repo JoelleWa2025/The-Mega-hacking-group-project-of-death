@@ -1,5 +1,7 @@
 # The-Mega-hacking-group-project-of-death
-Comp357- Final Project. This is the Browser Exploitation Framework
+Comp357- Final Project. 
+
+This is the Browser Exploitation Framework using BeEF. 
 
 For this lab creation use Kali Linux, update the command sudo apt update and sudo apt full-upgrade before starting, as shown below.
 For this lab you will need to install beef on kali. Use the command sudo apt install -y beef-xss. 
